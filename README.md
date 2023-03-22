@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wacastel
 - 👀 I’m interested in Machine Learning, Python, JavaScript & TypeScript
 - 🌱 I’m currently learning advanced Python and Deep Learning topics
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on fun projects involving Large Language Models and Generative AI
 - 📫 How to reach me ...
 
 <!---
